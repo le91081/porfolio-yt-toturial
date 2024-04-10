@@ -25,7 +25,7 @@ function Hero({}: Props) {
         width={128}
         height={128}
         alt="avatar"
-        className="relative rounded-full mx-auto w-32 h-32"
+        className="relative rounded-full mx-auto w-32 h-32 object-cover object-top"
         src="https://static.toiimg.com/photo/107091638.cms"
       />
       <div className="z-20">
